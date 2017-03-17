@@ -1,0 +1,17 @@
+{
+  "name": "sample-wasm",
+  "version": "1.0.0",
+  "description": "Loading and running WebAssembly code\r # https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
